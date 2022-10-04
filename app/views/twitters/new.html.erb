@@ -1,0 +1,19 @@
+<% if @twitter.errors.present? %>
+<p>エラーがあります</p>
+<ul>
+    <% @twitter.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+    <% end %>
+</ul>
+<% end %>
+<%= form_for @twitter ,url: {action: :create} do |f| %>
+    <%= f.label :message, 'メッセージ'%>
+    <%= f.text_field :message %>
+    <%= f.submit '登録' %>
+    
+    
+    
+<% end %>
+<body bgcolor="#00acee">
+    
+</body>
