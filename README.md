@@ -9,6 +9,8 @@
 ### イー○ンマスクさんから買収される日も近い....!
 ### url: ~~https://calm-meadow-94915.herokuapp.com/~~
 ### 金欠のためサービス停止しました
+### 雑に作りましたので、大した改善もしておりません()
+<img width="2656" alt="スクリーンショット 2022-10-11 1 58 54" src="https://user-images.githubusercontent.com/64056412/194918065-08833192-9dab-44af-8d2c-9624f06cfd3b.png">
 
 
 This README would normally document whatever steps are necessary to get the
